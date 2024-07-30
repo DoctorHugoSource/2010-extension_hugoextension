@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/rotorwood"
+	"$bumpmap"				"models/doctorwho1200/copper/normal"
+	"$nodecal"				"1"
+	"$model"				"1"
+
+	"$detail"				"detail/wood_detail_01"
+	"$detailscale"			"2.563"
+	"$detailblendfactor"	"0.8"
+	"$detailblendmode"		"0"
+
+	"$phong"				"1"
+	"$phongexponent"		"30"
+	"$phongboost"			"1"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$rimlight"				"1"
+	"$rimlightexponent"		"2"
+	"$rimlightboost"		"0.2"
+
+	"$surfaceprop"			"Wood_Furniture"
+}

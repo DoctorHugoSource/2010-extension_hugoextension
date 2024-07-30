@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/ceilinglights"
+	"$bumpmap"				"models/doctorwho1200/copper/normal"
+	"$nodecal"				"1"
+	"$model"				"1"
+
+	"$selfillum"			"1"
+	"$selfillummask"		"models/doctorwho1200/copper/white"
+	"$selfillumtint"		"[1 0.1 0.1]"
+
+	"$phong"				"1"
+
+	"$surfaceprop"			"carpet"
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+			{
+				"animatedTextureVar"			"$basetexture"
+				"animatedTextureFrameNumVar"	"$frame"
+				"animatedTextureFrameRate"		"10"
+			}
+	}
+}

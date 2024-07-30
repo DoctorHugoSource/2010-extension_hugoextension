@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/glass"
+	"$bumpmap"				"models/doctorwho1200/copper/metalnormal"
+	"$nodecal"				"1"
+	"$model"				"1"
+
+	"$detail"				"detail/metal_detail_01"
+	"$detailscale"			"4.283"
+	"$detailblendfactor"	"0.65"
+	"$detailblendmode"		"0"
+
+	"$envmap"				"models/vtalanov98/tardis2010/env_interior.hdr"
+	"$envmaptint"			"[0.3 0.3 0.3]"
+
+	"$phong"				"1"
+	"$phongexponent"		"30"
+	"$phongboost"			"1"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$rimlight"				"1"
+	"$rimlightexponent"		"2"
+	"$rimlightboost"		"0.2"
+
+	"$surfaceprop"			"metal"
+}

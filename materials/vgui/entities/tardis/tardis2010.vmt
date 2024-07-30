@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture"			"VGUI/entities/tardis/tardis2010"
+	"$vertexcolor" 			"1"
+	"$vertexalpha" 			"1"
+	"$nolod" 				"1"
+}

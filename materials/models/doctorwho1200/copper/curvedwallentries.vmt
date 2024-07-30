@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/curvedwallentries"
+	"$bumpmap"				"models/doctorwho1200/copper/curvedwallentries_n"
+	"$nodecal"				"1"
+	"$nocull"				"1"
+	"$model"				"1"
+
+	"$detail"				"detail/plaster_detail_01"
+	"$detailscale"			"6.783"
+	"$detailblendfactor"	"0.8"
+	"$detailblendmode"		"0"
+
+	"$phong"				"1"
+
+	"$surfaceprop"			"sand"
+}

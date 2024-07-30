@@ -1,0 +1,25 @@
+"Vertexlitgeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/glass"
+	"$color2"				"{150 150 150}"
+	"$bumpmap"				"models/doctorwho1200/copper/normal"
+	"$nodecal"				"1"
+	"$nocull"				"1"
+	"$model"				"1"
+
+	"$additive"				"1"
+
+	"$envmap"				"models/vtalanov98/tardis2010/env_interior.hdr"
+	"$envmaptint"			"[0.05 0.05 0.05]"
+
+	"$phong"				"1"
+	"$phongexponent"		"50"
+	"$phongboost"			"1"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$rimlight"				"1"
+	"$rimlightexponent"		"2"
+	"$rimlightboost"		"0.2"
+
+	"$surfaceprop"			"glass"
+}

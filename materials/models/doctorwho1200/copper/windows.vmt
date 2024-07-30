@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/windows"
+	"$bumpmap"				"models/doctorwho1200/copper/windows_n"
+	"$nodecal"				"1"
+	"$model"				"1"
+
+	$envmap "env_cubemap"
+	$envmaptint "[.050 .050 .050]"
+	$diffuseexp 1
+	$halflambert 1
+	$nocull 0
+	$phong 1
+	$phongalbedotint 1
+	$phongalbedoboost 255
+	$phongexponenttexture "models/doctorwho1200/copper/normal"
+	"$phongexponent" "60"
+	"$phongboost" "20"
+//	$phongtint 			"[ 2.5 0.5 .05 ]"
+	"$phongfresnelranges" "[0.25 0.5 1]"
+	$rimlight               1
+	"$rimlightexponent" "4"
+	"$rimlightboost" "2"
+	"$basemapalphaphongmask" "1"
+
+	"$surfaceprop"			"glass"
+}

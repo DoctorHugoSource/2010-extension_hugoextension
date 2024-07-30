@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/policeboxsign"
+	"$bumpmap"				"models/doctorwho1200/copper/normal"
+	"$nodecal"				"1"
+	"$model"				"1"
+
+	"$selfillum"			"0"
+	"$selfillummask"		"models/doctorwho1200/copper/white"
+
+	"$envmap"				"models/vtalanov98/tardis2010/env_interior.hdr"
+	"$envmaptint"			"[0.003 0.007 0.007]"
+
+	"$phong"				"1"
+	"$phongexponent"		"100"
+	"$phongboost"			"1"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$rimlight"				"1"
+	"$rimlightexponent"		"2"
+	"$rimlightboost"		"0.2"
+
+	"$surfaceprop"			"glass"
+}

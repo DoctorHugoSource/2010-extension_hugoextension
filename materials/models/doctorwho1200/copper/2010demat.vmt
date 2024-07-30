@@ -1,0 +1,36 @@
+"VertexlitGeneric"
+{
+	"$basetexture"				"models/doctorwho1200/copper/2010"
+	"$bumpmap"					"models/doctorwho1200/copper/2010_n"
+	"$nodecal"					"1"
+
+	"$phong"					"1"
+	"$phongexponent"			"30"
+	"$phongboost"				"1"
+	"$phongfresnelranges"		"[0.05 0.5 1]"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"2"
+	"$rimlightboost"			"0.2"
+
+	"$surfaceprop"				"Wood_Furniture"
+
+	$EmissiveBlendEnabled         0
+    $EmissiveBlendStrength         0.2
+    $EmissiveBlendTexture         "vgui/white"
+    $EmissiveBlendBaseTexture         "models/props_combine/health_charger_glass"      // models/doctorwho1200/copper/2010 doesnt fucking work
+    $EmissiveBlendFlowTexture         "vgui/white"
+    $EmissiveBlendTint                 " {55 55 55} "
+    $EmissiveBlendScrollVector         " [ 0 0 ] "
+
+	$detail models/props_combine/health_charger_glass
+	$detailblendfactor 1.7
+	$detailblendmode 5
+
+			Proxies {
+		TARDIS_PhaseEffect {
+		resultVar    $phongexponent
+		resultVar2    $detailblendfactor
+		}
+	}
+}

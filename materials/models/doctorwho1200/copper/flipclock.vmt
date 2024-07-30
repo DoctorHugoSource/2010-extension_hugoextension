@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/flipclock"
+	"$bumpmap"				"models/doctorwho1200/copper/normal"
+	"$nodecal"				"1"
+	"$model"				"1"
+
+	"$phong"				"1"
+
+	"$surfaceprop"			"plastic"
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+			{
+				"animatedTextureVar"			"$basetexture"
+				"animatedTextureFrameNumVar"	"$frame"
+				"animatedTextureFrameRate"		"12"
+			}
+	}
+}

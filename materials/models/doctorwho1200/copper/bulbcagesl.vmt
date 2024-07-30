@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/bulbcages"
+	"$bumpmap"				"models/doctorwho1200/copper/normal"
+	"$nodecal"				"1"
+	"$model"				"1"
+
+	"$selfillum"			"1"
+    "$selfillummask"		"models/doctorwho1200/copper/white"
+
+	"$phong"				"1"
+
+	"$surfaceprop"			"plastic"
+}

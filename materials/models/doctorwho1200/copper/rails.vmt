@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/rails"
+	"$bumpmap"				"models/doctorwho1200/copper/normal"
+	"$nodecal"				"1"
+	"$model"				"1"
+
+	"$phong"				"1"
+
+	"$rimlight"				"1"
+	"$rimlightexponent"		"2"
+	"$rimlightboost"		"0.2"
+
+	"$surfaceprop"			"plastic"
+}

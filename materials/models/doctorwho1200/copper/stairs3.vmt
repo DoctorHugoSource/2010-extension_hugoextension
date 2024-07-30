@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/stairs3"
+	"$bumpmap"				"models/doctorwho1200/copper/normal"
+	"$nodecal"				"1"
+	"$model"				"1"
+
+	"$phong"				"1"
+
+	"$surfaceprop"			"Wood_Solid"
+}

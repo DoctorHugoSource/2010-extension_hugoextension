@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/bluelamps"
+	"$bumpmap"				"models/doctorwho1200/copper/normal"
+	"$nodecal"				"1"
+	"$model"				"1"
+
+	"$selfillum"			"1"
+    "$selfillummask"		"models/doctorwho1200/copper/white"
+
+	"$envmap"				"models/vtalanov98/tardis2010/env_interior.hdr"
+	"$envmaptint"			"[0.01 0.01 0.01]"
+
+	"$phong"				"1"
+	"$phongexponent"		"50"
+	"$phongboost"			"1"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$rimlight"				"1"
+	"$rimlightexponent"		"2"
+	"$rimlightboost"		"0.2"
+
+	"$surfaceprop"			"plastic"
+}
