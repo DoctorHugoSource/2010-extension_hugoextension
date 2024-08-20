@@ -219,16 +219,19 @@ T.Interior = {
 		[3] = "models/hugoextension/windows/copper/windows2_exttint.vmt",
 		[6] = "models/hugoextension/windows/copper/windows2_exttint.vmt",
 		[7] = "models/hugoextension/windows/copper/windows2_exttint.vmt",
+		[9] = "models/hugoextension/windows/copper/windows2_exttint.vmt",
 		},
 		TintProxies_ExtDoor = {
 		[2] = "models/hugoextension/windows/copper/windows2_exttint.vmt",
 		[5] = "models/hugoextension/windows/copper/windows2_exttint.vmt",
 		[6] = "models/hugoextension/windows/copper/windows2_exttint.vmt",
+		[8] = "models/hugoextension/windows/copper/windows2_exttint.vmt",
 		},
 		TintProxies_ExtDoorInt = {
 		[4] = "models/hugoextension/windows/copper/windows2_exttint.vmt",
 		[9] = "models/hugoextension/windows/copper/windows2_exttint.vmt",
 		[10] = "models/hugoextension/windows/copper/windows2_exttint.vmt",
+		[12] = "models/hugoextension/windows/copper/windows2_exttint.vmt",
 		},
 
 		Travelcontrols = true,
