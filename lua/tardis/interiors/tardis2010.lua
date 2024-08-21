@@ -468,8 +468,8 @@ T.Interior = {
 		tardis2010_switch2				= {pos = Vector(-5.578, -45.239, 41.876),	down = true,	right = false,	},
 		tardis2010_enginerelease		= {pos = Vector(-8.6, 54.6, 32.1),			down = true,	right = true,	},
 		tardis2010_handbrake			= {pos = Vector(-49.5 , -26.7 , 40),		down = false,	right = false,	},
-		tardis2010_safelock4			= {pos = Vector(41.706, -29.978, 33.77),	down = true,	right = false,	},
-		tardis2010_lever1 				= {pos = Vector(-6.21,31.07,49.32),			down = false,	right = true,	text = "Anti-Gravity Control",},
+
+		tardis2010_lever1 				= {pos = Vector(-6.21,31.07,49.32),			down = false,	right = true,	text = "Antigrav Ball",},
 		tardis2010_screen_switch_hitbox	= {pos = Vector(0.106, -47.167, 68.19),		down = true,	right = true,	},
 		tardis2010_pbm2					= {pos = Vector(-12.781, -52.892, 34.58),	down = true,	right = true,	},
 		tardis2010_safelock1			= {pos = Vector(44.264, -19.409, 39.883),	down = true,	right = true,	},
@@ -491,6 +491,7 @@ T.Interior = {
 		tardis2010_button1 				= {pos = Vector(5.61,48.78,40.56),			down = false,	right = false,	text = "Big Red Danger Button",					},
 		tardis2010_pump1 				= {pos = Vector(37.1,0.06,5.94),			down = false,	right = false,	text = "Engine Quick Calibration",				},
 		tardis2010_crank1 				= {pos = Vector(50.35,-22.1,32.94),			down = false,	right = false,	text = "Coarse Crank",							},
+		tardis2010_safelock4 			= {pos = Vector(41.706, -29.978, 33.77),	down = false,	right = false,	text = "Set FLip Clock Alarm",							},
 
 
 	},
@@ -511,7 +512,7 @@ T.Interior = {
 
 		tardis2010_throttle 			= "teleport_double", -- overriden by control sequences
 		tardis2010_typewriter 			= "coordinates",
-		tardis2010_safelock4			= "redecorate",
+
 		tardis2010_enginerelease		= "engine_release",
 		tardis2010_handbrake			= "handbrake",
 		tardis2010_switch2				= false, --"toggle_screens",
@@ -540,6 +541,7 @@ T.Interior = {
 		tardis2010_pump2					= "physlock",
 		tardis2010_rotaryswitch				= "hads",
 		tardis2010_crank1					= "fastvortexremat",
+		tardis2010_safelock4				= "timetravel_increment",
 
 	},
 
